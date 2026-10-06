@@ -1,2 +1,3 @@
 # apnacollege-demo
-my first demo class.
+My first demo class.
+Author-Palak Rana
